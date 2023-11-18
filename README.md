@@ -1,12 +1,8 @@
 README for Employee Management System
-
-
 Project Overview
-
 This Employee Management System is a comprehensive software designed to handle various aspects of employee record management. It's implemented in C and utilizes a linked list data structure to manage employee records. The system offers functionalities such as adding new employees, searching for specific employees, counting total employees, sorting employees, and removing employees from the records.
 
 Key Features
-
 Employee Data Handling: Capable of loading, storing, and managing a list of employees, each with attributes like first name, last name, employee ID, and dependents.
 Add New Employees: Add new employee records to the system.
 Print Employee Data: Print details of all employees or a specific employee.
